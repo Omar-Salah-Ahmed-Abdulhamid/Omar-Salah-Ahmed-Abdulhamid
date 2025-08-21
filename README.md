@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Salah  
 
-🎓 **Computer Science Student | Aspiring Full Stack .NET Developer**  
+🎓 **Computer Science Student |  Full Stack .NET Developer**  
 📍 Suez Canal University – 4rd Year  
 
 ---
