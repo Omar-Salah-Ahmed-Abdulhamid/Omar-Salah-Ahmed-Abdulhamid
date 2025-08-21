@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Salah  
 
-<!--
-**Omar-Salah-Ahmed-Abdulhamid/Omar-Salah-Ahmed-Abdulhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student | Aspiring Full Stack .NET Developer**  
+📍 Suez Canal University – 3rd Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+- 💻 Passionate about **Full Stack .NET Development**.  
+- 🔹 Experienced with **HTML, CSS, JavaScript, Node.js** (Frontend).  
+- 🔹 Backend with **C#, LINQ, ASP.NET MVC, .NET Core, SQL Server**.  
+- 🌱 Currently learning and improving my skills through **projects and problem solving**.  
+- 🎯 Goal: Gain strong experience in **.NET, backend systems, and web technologies**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+`HTML` | `CSS` | `JavaScript` | `Node.js`  
+
+**Backend & Database:**  
+`C#` | `LINQ` | `ASP.NET MVC` | `.NET Core` | `SQL Server` | `MongoDB`  
+
+**Other Skills:**  
+`Python` | `Problem Solving` | `Code Review` | `Performance Tuning`  
+
+---
+
+## 🎓 Education  
+- **Suez Canal University** – Computer Science (Software Engineering Track)  
+- **Information Technology Institute (ITI)** – Training & Certifications  
+
+---
+
+## 🚀 Projects & Experience  
+- ASP.NET MVC apps with **authentication, CRUD, and SQL Server**.  
+- Node.js + MongoDB mini projects.  
+- Freelancing experience with **web development**.  
+- Hands-on labs in **performance optimization and debugging**.  
+
+---
+
+## 📚 Certifications & Courses  
+- **CS50** – Computer Science  
+- Various ITI trainings  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 🐙 [GitHub](https://github.com/yourusername)  
+- ✉️ Email: `omar.salah@email.com`  
+
+---
+⭐️ From [Omar Salah](https://github.com/yourusername)
