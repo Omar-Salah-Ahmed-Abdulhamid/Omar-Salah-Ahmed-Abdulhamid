@@ -2,11 +2,12 @@
 <h3 align="center">Software Engineer | .NET Developer </h3>
 
 ---
-<p align="center">
+<div style="text-align: center;">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Designer.gif" width="300"/>
-</p>
+</div>
 
+---
 ###  Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-salah-019272263">
