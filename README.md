@@ -2,10 +2,12 @@
 <h3 align="center">Software Engineer | .NET Developer </h3>
 
 ---
-<div style="text-align: right; padding-right: 50px;">
+<p align="right">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Designer.gif" width="300" />
-</div>
+</p>
+
+
 
 ---
 ###  Connect with me  
