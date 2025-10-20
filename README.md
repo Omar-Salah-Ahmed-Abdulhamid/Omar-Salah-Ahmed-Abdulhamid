@@ -24,11 +24,13 @@
 
 ---
 
-### 🚀 Projects  
+###  Projects  
 | Project | Description |
 |----------|-------------|
-| 🚗 **MVC Car Project** | Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework. |
-| 🎮 **Game Project** |  Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework.|
+|   <img src="https://img.icons8.com/3d-fluency/94/car.png" width="40"/><br>
+ **MVC Car Project** | Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework. |
+|   <img src="https://img.icons8.com/3d-fluency/94/controller.png" width="40"/><br>
+ **Game Project** |  Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework.|
 
 
 ---
