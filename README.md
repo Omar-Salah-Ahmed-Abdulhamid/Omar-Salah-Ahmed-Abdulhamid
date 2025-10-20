@@ -28,7 +28,7 @@
 | Project | Description |
 |----------|-------------|
 | 🚗 **MVC Car Project** | Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework. |
-| 🎮 **Game Project** | Interactive game built with JavaScript, HTML5, and CSS animations. |
+| 🎮 **Game Project** |  Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework.|
 
 
 ---
