@@ -1,77 +1,50 @@
-<h1 align="center">👋 Hi, I'm Omar Salah</h1>
-<h3 align="center">💻 Software Engineer | .NET Developer | 3D & Animation Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Omar Salah</h1>
+<h3 align="center">Software Engineer | .NET Developer | Passionate about 3D & Animation</h3>
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-salah-019272263" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="60"/>
-  </a>
-  <a href="https://github.com/OmarSalah" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="60"/>
+  <a href="https://www.linkedin.com/in/omar-salah-019272263">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Salah-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Technical Skills  
+### 🧠 Skills  
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/javascript.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/python.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/c-sharp-logo.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/c-plus-plus-logo.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/react.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/node-js.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/mongodb.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/sql.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/html-5.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/css3.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/visual-studio.png" width="60"/>
-  <img src="https://img.icons8.com/3d-fluency/94/git.png" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js,python,cs,cpp,html,css,react,nodejs,mongodb,sqlserver,git" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,github" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/car.png" width="90"/><br>
-  <b>MVC Car Project</b><br>
-  <sub>Full-stack system using ASP.NET MVC, SQL Server, and Entity Framework.</sub>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/controller.png" width="90"/><br>
-  <b>Game Project</b><br>
-  <sub>Interactive web-based game built using JS, HTML5 & CSS animations.</sub>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/development-skill.png" width="90"/><br>
-  <b>Software Engineering Project</b><br>
-  <sub>Focused on modular design & performance optimization.</sub>
-</td>
-</tr>
-</table>
+### 🚀 Projects  
+| Project | Description |
+|----------|-------------|
+| 🚗 **MVC Car Project** | Full-stack car management system using ASP.NET MVC, SQL Server, and Entity Framework. |
+| 🎮 **Game Project** | Interactive game built with JavaScript, HTML5, and CSS animations. |
+| 🧩 **Software Engineering Project** | Designed and implemented software solutions focusing on clean architecture and performance. |
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarSalah&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarSalah&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarSalah&show_icons=true&theme=react" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSalah&layout=compact&theme=react" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarSalah&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSalah&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ 3D Developer Animation  
+### ✨ Animated 3D Header  
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Designer.gif" width="300"/>
@@ -79,4 +52,6 @@
 
 ---
 
-<h4 align="center">“Code is my art, logic is my canvas.”</h4>
+### 💬 “Always learning, always improving.”  
+<p align="center">⚡ Exploring 3D, animation, and interactive web experiences ⚡</p>
+
