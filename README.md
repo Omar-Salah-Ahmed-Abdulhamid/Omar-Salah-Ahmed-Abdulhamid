@@ -19,7 +19,7 @@
 ---
 
 ### 🔗 Connect with me
-<p align="right"> <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" /> <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Designer.gif" width="300" /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/omar-salah-019272263"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Salah-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 ### 💻 Skills
 
@@ -49,17 +49,6 @@
 </p>
 
 ---
-
-### ✨ Quote
-<h4 align="center">“Code is not just logic — it’s art with structure.”</h4>
-<h5 align="center">Follow me for more updates!</h5>
-
----
-
-
-
----
-
 
 
 <h4 align="center">“Code is not just logic — it’s art with structure.”</h4>
