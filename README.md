@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi, I'm Omar Salah 👋</h1>
+<h3 align="center">Software Development Engineer | .NET Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,11 +10,11 @@
 ---
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
-<img align="right" src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="30%">
-- 👨‍💻 I'm Software Development Engineer.
+<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="7oSkaaa" width=19.40%/> </p>- 
+👨‍💻 I'm Software Development Engineer.
 - 🎓 I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - 💡 Always learning new technologies and improving my skills.
-- 🌐 Check out my [Portfolio](#).
+
 
 ---
 
