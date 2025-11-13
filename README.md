@@ -54,9 +54,8 @@
 </p>
 
 ---
-### Connect with me
-<p align="center">
-<a href="https://www.linkedin.com/in/omar-salah-019272263"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Salah-
+###Connect with me
+<p align="center"> <a href="https://www.linkedin.com/in/omar-salah-019272263"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Salah-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 ---
 
