@@ -19,12 +19,26 @@
 ---
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Skills
-
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java,html,css,react,nodejs,mongodb,sqlserver" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java" />
 </p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,sqlserver,dotnet" />
+</p>
+
+### Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
+</p>
+
 
 
 ---
