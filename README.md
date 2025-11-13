@@ -20,9 +20,9 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Skills
 ### Programming Languages
-<p align="center">
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java" />
-</p>
+ </p>
 
 ### Frontend
 <p align="center">
