@@ -10,7 +10,7 @@
 ---
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
-<img align="right" src="[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" width=30%> 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
    I'm Software Development Engineer.
 -  I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
 -  Always learning new technologies and improving my skills.
