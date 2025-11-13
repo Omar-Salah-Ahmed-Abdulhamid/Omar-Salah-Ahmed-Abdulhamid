@@ -54,12 +54,11 @@
 </p>
 
 ---
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> GitHub Stats
+###  Connect with me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarSalah&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSalah&layout=compact&theme=tokyonight" />
-</p>
+  <a href="https://www.linkedin.com/in/omar-salah-019272263">
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40" /> LinkedIn
+  </a>
 
 ---
 
