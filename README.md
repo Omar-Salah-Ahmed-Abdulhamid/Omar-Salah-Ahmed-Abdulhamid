@@ -20,38 +20,10 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Skills
 
-### Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70px" />
-  <img src="https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60px" />
-  <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white" height="60px" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" height="60px" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60px" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-%230078D7?style=for-the-badge&logo=.net&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" height="60px" />
-</p>
-
-### Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" height="60px" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height="60px" />
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java,html,css,react,nodejs,mongodb,sqlserver" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github" />
 </p>
 
 
