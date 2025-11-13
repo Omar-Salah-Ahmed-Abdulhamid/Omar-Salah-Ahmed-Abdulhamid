@@ -10,9 +10,10 @@
 ---
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>👨‍💻 I'm Software Development Engineer.
-- 🎓 I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- 💡 Always learning new technologies and improving my skills.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%> 
+   I'm Software Development Engineer.
+-  I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
+-  Always learning new technologies and improving my skills.
 
 
 ---
@@ -62,9 +63,5 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="3%"> Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-salah-019272263"><img src="https://img.shields.io/badge/LinkedIn-OmarSalah-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/OmarSalah"><img src="https://img.shields.io/badge/GitHub-OmarSalah-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:omar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<h4 align="center">“Code is not just logic — it’s art with structure.”</h4>
+<h5 align="center">Follow me for more updates!</h5>
