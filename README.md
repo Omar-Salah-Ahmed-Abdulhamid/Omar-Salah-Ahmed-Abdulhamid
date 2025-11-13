@@ -10,8 +10,7 @@
 ---
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
-<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="7oSkaaa" width=19.40%/> </p>- 
-👨‍💻 I'm Software Development Engineer.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>👨‍💻 I'm Software Development Engineer.
 - 🎓 I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - 💡 Always learning new technologies and improving my skills.
 
