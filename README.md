@@ -22,6 +22,7 @@
 
 ### Programming Languages
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70px" />
   <img src="https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white" height="60px" />
   <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60px" />
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" height="60px" />
