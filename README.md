@@ -31,7 +31,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,sqlserver,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,dotnet,sqlserver" />
 </p>
 
 ### Tools & IDEs
