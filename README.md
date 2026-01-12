@@ -39,8 +39,12 @@
   
   <br>
 
-  <h3>Backend & Core</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb,mysql&perline=12" />
+ <h3>Backend & Core</h3>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb&perline=12" />
+  
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="48" height="48" style="margin-bottom: 5px;" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql&perline=12" />
   <br><br>
 
   <h3>Frontend</h3>
