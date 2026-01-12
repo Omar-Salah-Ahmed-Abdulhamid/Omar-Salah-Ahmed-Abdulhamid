@@ -40,13 +40,11 @@
   <br>
 
 <h3>Backend & Core</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb" />
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="sqlserver" />
-    
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb" height="48" alt="backend-1" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="sqlserver" style="vertical-align: top; margin: 0 4px;" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="backend-2" />
+  </div>
   <br><br>
 
   <h3>Frontend</h3>
