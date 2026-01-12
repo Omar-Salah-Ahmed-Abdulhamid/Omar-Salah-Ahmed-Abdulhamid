@@ -1,54 +1,66 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Omar%20Salah&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20.NET%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
-</div>
+<h1 align="center">Hi there, I'm Omar Salah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 <h3 align="center">Software Development Engineer | .NET Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  Software Development Engineer specialized in building robust systems using the .NET Ecosystem.
+  <br>
+  Graduated from <b>Faculty of Computers & Informatics</b> at <b>Suez Canal University</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-salah-019272263">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-   I'm Software Development Engineer.
--  I `graduated` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/) at [Suez Canal University](http://suez.edu.eg/ar/).
--  Always learning new technologies and improving my skills.
+<h3 align="left">🛠️ Technical Skills</h3>
 
+<p align="left">
+  <b>Programming Languages:</b><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="left">
+  <b>Backend Development:</b><br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Frontend Development:</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Tools & IDEs:</b><br>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Skills
-### Programming Languages
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java" />
- </p>
+<h3 align="left">📊 GitHub Activity</h3>
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=false&title_color=512BD4&text_color=999&icon_color=512BD4" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=false&title_color=512BD4&text_color=999" height="150" alt="languages" />
 </p>
 
-### Backend
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,dotnet,sqlserver" />
+  <i>“Code is not just logic — it’s art with structure.”</i>
 </p>
-
-### Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
-</p>
-
-
-
----
-
-###Connect with me
-<p align="center"> <a href="https://www.linkedin.com/in/omar-salah-019272263"> <img src="https://img.shields.io/badge/LinkedIn-Omar%20Salah-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
-
----
-
-<h4 align="center">“Code is not just logic — it’s art with structure.”</h4>
-<h5 align="center">Follow me for more updates!</h5>
