@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Omar Salah 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Omar%20Salah&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20.NET%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+</div>
 <h3 align="center">Software Development Engineer | .NET Developer</h3>
 
 <p align="center">
