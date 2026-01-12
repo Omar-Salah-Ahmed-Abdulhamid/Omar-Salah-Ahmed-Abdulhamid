@@ -40,7 +40,7 @@
   <br>
 
   <h3>Backend & Core</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb,sqlserver,mysql&perline=12" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb,mssql,mysql&perline=12" />
   
   <br><br>
 
