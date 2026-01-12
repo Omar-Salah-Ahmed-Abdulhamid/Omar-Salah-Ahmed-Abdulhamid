@@ -1,66 +1,83 @@
-<h1 align="center">Hi there, I'm Omar Salah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
-<h3 align="center">Software Development Engineer | .NET Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Omar%20Salah&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20.NET%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  Software Development Engineer specialized in building robust systems using the .NET Ecosystem.
+<div align="center">
   <br>
-  Graduated from <b>Faculty of Computers & Informatics</b> at <b>Suez Canal University</b>.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-salah-019272263">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Technical Skills</h3>
-
-<p align="left">
-  <b>Programming Languages:</b><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="left">
-  <b>Backend Development:</b><br>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Frontend Development:</b><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Tools & IDEs:</b><br>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+  <table border="0">
+    <tr>
+      <td width="55%" valign="center">
+        <h2>👋 Hello, World!</h2>
+        <p>
+          I'm <b>Omar Salah</b>, a passionate Software Engineer from Egypt. <br>
+          I craft robust back-end systems and fluid user experiences using the <b>.NET ecosystem</b>.
+        </p>
+        <br>
+        <p>
+            🔭 I’m currently working on <b>Smart Egypt Tour Guide</b>.<br>
+            🌱 I’m currently learning <b>Cloud Architecture & Microservices</b>.<br>
+            🎓 Graduated from <b>FCI, Suez Canal University</b>.<br>
+            ⚡ Fun fact: <i>"I treat errors as challenges, not failures."</i>
+        </p>
+        <br>
+        <a href="https://www.linkedin.com/in/omar-salah-019272263">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:your-email@example.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td width="45%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.png" width="90%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Activity</h3>
+<h2 align="center">💻 Technologies & Tools</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=false&title_color=512BD4&text_color=999&icon_color=512BD4" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=false&title_color=512BD4&text_color=999" height="150" alt="languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,nodejs,express&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Database</b></td>
+      <td><img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,postgres&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,docker&theme=dark" /></td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<p align="center">
-  <i>“Code is not just logic — it’s art with structure.”</i>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/omarsalah">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <p>© 2025 Omar Salah | Built with ❤️ & .NET</p>
+</div>
