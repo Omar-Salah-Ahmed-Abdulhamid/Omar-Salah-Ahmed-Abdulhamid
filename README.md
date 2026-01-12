@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Omar Salah 👋</h1>
-<h3 align="center">Software Development Engineer | .NET Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Omar%20Salah&fontSize=80&fontAlign=50&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20.NET%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+</div><h3 align="center">Software Development Engineer | .NET Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,28 +20,23 @@
 ---
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Skills
-### Programming Languages
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js,java" />
- </p>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
-</p>
+<div align="center">
+  
+  <h3>Backend & Core</h3>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,nodejs,mongodb,sqlserver,mysql&perline=10" />
+  
+  <br><br>
 
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,dotnet,sqlserver" />
-</p>
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind&perline=10" />
 
-### Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
-</p>
+  <br><br>
 
-
-
+  <h3>Tools & IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,docker&perline=10" />
+</div>
 ---
 
 ###Connect with me
