@@ -90,7 +90,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=dark&background=0d1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
