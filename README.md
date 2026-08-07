@@ -89,7 +89,6 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&border_radius=0" width="48%" alt="GitHub Stats" />
 </div>
 
 <br>
